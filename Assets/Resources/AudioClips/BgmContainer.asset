@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0218efc50017eda4090d70d5896d233d, type: 3}
+  m_Name: BgmContainer
+  m_EditorClassIdentifier: 
+  bgms:
+  - {fileID: 8300000, guid: 16677de50d3da3343be8d1c7f6725cde, type: 3}
+  - {fileID: 8300000, guid: 5dc06d71e6e648d4492b68f5328f49f0, type: 3}
+  - {fileID: 8300000, guid: c79de7fa3d4907449bd9f46aa2e35230, type: 3}
+  - {fileID: 8300000, guid: b43768a8ff3742249a0f82c4676972aa, type: 3}
+  - {fileID: 8300000, guid: 9420842ccd4b0eb48b6e36bb05f7977c, type: 3}
